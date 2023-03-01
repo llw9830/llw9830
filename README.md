@@ -22,7 +22,7 @@
      <!--   代码比例    -->
 <!--      <img align="center" height='180px'  src="https://github-readme-stats.leftover.cn/api/top-langs/?username=llw9830&layout=compact" /> -->
      <!--   github数据    -->
-     <img align="center" height='180px' src="https://github-readme-stats.leftover.cn/api?username=llw9830&show_icons=true&theme=gruvbox&hide_border=true" />  
+<!--      <img align="center" height='180px' src="https://github-readme-stats.leftover.cn/api?username=llw9830&show_icons=true&theme=gruvbox&hide_border=true" />   -->
  </div>
 
 </div>
