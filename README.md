@@ -13,7 +13,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=llw9830" alt="访客统计" />
+   ![Visitor Count](https://profile-counter.glitch.me/llw9830/count.svg)
   </div>
 
    <div>
