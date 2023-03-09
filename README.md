@@ -13,7 +13,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://profile-counter.glitch.me/llw9830/count.svg" alt="访客统计" />
+    My <img src="https://profile-counter.glitch.me/llw9830/count.svg" alt="访客统计" /> visitor
   </div>
 
    <div>
